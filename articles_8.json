@@ -3,12 +3,9 @@
         {
             "published_on": "2015-01-02T23:00:10", 
             "title": "L\u2019arbre tueur de tuteur", 
-            "content_size": 810892, 
+            "content_size": 809908, 
             "tags": [
-                "Traditions", 
-                "arbre", 
-                "tueur", 
-                "tuteur"
+                "Traditions"
             ], 
             "id": 9, 
             "nb_comments": 0, 
@@ -17,14 +14,9 @@
         {
             "published_on": "2015-01-02T10:55:03", 
             "title": "\u00ab djatiguidon \u00bb en Bambara est \u00ab ndjatighiyagal \u00bb en Peulh : que constatez-vous en mati\u00e8re linguistique ?  A vos claviers", 
-            "content_size": 453316, 
+            "content_size": 451620, 
             "tags": [
-                "Forum", 
-                "Bambara", 
-                "commenatires", 
-                "MOT", 
-                "Peulh", 
-                "sembables"
+                "Forum"
             ], 
             "id": 10, 
             "nb_comments": 1, 

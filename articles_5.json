@@ -3,14 +3,13 @@
         {
             "published_on": "2015-01-08T22:08:37", 
             "title": "Qu\u2019on s\u2019assoie ou pas sous l\u2019ombre d\u2019un arbre g\u00e9ant, cela ne diminue en rien sa grandeur (proverbe bambara)", 
-            "content_size": 412464, 
+            "content_size": 412132, 
             "tags": [
                 "anc\u00eatre", 
-                "Jeunesse", 
-                "Afrique", 
-                "Mali", 
                 "proverbe", 
-                "sagesse"
+                "Jeunesse", 
+                "afrique", 
+                "mali"
             ], 
             "id": 6, 
             "nb_comments": 0, 
@@ -19,15 +18,11 @@
         {
             "published_on": "2015-01-07T23:49:21", 
             "title": "Les sens r\u00e9el de Kaba Bulon", 
-            "content_size": 454236, 
+            "content_size": 452896, 
             "tags": [
-                "Culture", 
-                "Traditions", 
-                "Mali", 
-                "Bulon", 
                 "culture", 
-                "Kaba", 
-                "Kangaba"
+                "Culture", 
+                "mali"
             ], 
             "id": 7, 
             "nb_comments": 0, 
@@ -36,13 +31,11 @@
         {
             "published_on": "2015-01-06T20:34:47", 
             "title": "L\u2019origine du mot Kouroukanfouga", 
-            "content_size": 747368, 
+            "content_size": 746656, 
             "tags": [
                 "anc\u00eatre", 
-                "Culture", 
                 "culture", 
-                "Kouroukanfouga", 
-                "Manden"
+                "Culture"
             ], 
             "id": 8, 
             "nb_comments": 2, 
@@ -51,12 +44,9 @@
         {
             "published_on": "2015-01-02T23:00:10", 
             "title": "L\u2019arbre tueur de tuteur", 
-            "content_size": 810892, 
+            "content_size": 809908, 
             "tags": [
-                "Traditions", 
-                "arbre", 
-                "tueur", 
-                "tuteur"
+                "Traditions"
             ], 
             "id": 9, 
             "nb_comments": 0, 
@@ -65,14 +55,9 @@
         {
             "published_on": "2015-01-02T10:55:03", 
             "title": "\u00ab djatiguidon \u00bb en Bambara est \u00ab ndjatighiyagal \u00bb en Peulh : que constatez-vous en mati\u00e8re linguistique ?  A vos claviers", 
-            "content_size": 453316, 
+            "content_size": 451620, 
             "tags": [
-                "Forum", 
-                "Bambara", 
-                "commenatires", 
-                "MOT", 
-                "Peulh", 
-                "sembables"
+                "Forum"
             ], 
             "id": 10, 
             "nb_comments": 1, 
